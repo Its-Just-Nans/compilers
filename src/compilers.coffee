@@ -766,4 +766,16 @@
   type: 'Transpiler'
   url: 'https://wiki.gnome.org/Projects/Vala'
 ,
+  name: 'Zig'
+  source: 'Zig'
+  target: 'LLVM IR'
+  type: 'Intermediate'
+  url: 'https://ziglang.org/'
+,
+  name: 'Zig C Compiler'
+  source: 'C'
+  target: 'LLVM IR'
+  type: 'Intermediate'
+  url: 'https://ziglang.org/'
+,
 ]
